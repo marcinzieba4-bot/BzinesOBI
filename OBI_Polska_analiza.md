@@ -58,7 +58,7 @@ Marketplace'y odpowiadają za ~70% sprzedaży online produktów remontowo-budowl
 3. **Słaba produktywność sklepów** – ~48 mln zł/sklep vs ~90–107 mln u liderów. Sygnał problemu z ofertą, cenami, lokalizacjami lub ruchem.
 4. **Spóźniony e-commerce.** Marketplace dopiero w V 2026 – 16 miesięcy po Castoramie, 13 po Leroy Merlin. Castorama pokazała +30% e-com po starcie.
 5. **Brak ofensywy w segmencie PRO/B2B.** U Castoramy klient zawodowy to ~25% obrotu i rośnie najszybciej; OBI program B2B dopiero "planowało" w 2024. Fachowiec kupuje częściej, więcej i mniej sezonowo.
-6. **Wizerunek cenowy i słabsze marki własne** (hipoteza). Konkurenci mają rozbudowane portfele MDD (np. GoodHome/Magnusson w Castoramie). Przykład z kategorii opału: OBI pozycjonowane w "premium" (1500–1700 zł/t) vs standard w Castoramie/LM (1400–1500 zł/t).
+6. **Wizerunek cenowy i słabsze marki własne** (hipoteza). Konkurenci mają rozbudowane portfele MDD (np. GoodHome/Magnusson w Castoramie). (Uwaga: wcześniej podawałem tu przykład ekogroszku – był błędny, bo porównywał premium OBI ze standardem konkurencji, czyli różne jakości. Szczegóły w 4.3.)
 7. **Asortyment sterowany centralnie z Niemiec** (hipoteza) – słabsze dopasowanie do polskich specyfik (ogrzewanie paliwami stałymi, polscy producenci płytek i drzwi, ceny lokalne).
 8. **Usługi projektowe nadrabiane, a nie wyprzedzające** – kuchnie/łazienki "w każdym markecie" to dogonienie konkurencji, nie przewaga.
 
@@ -104,18 +104,36 @@ Marketplace'y odpowiadają za ~70% sprzedaży online produktów remontowo-budowl
 ### 4.3 WĘGIEL (i paliwa stałe)
 
 **Kontekst:**
-- Węgiel workowany w marketach: 1400–1700 zł/t (II 2026), −10–15% r/r.
+- Węgiel workowany w marketach (Murator, III 2026): standard Castorama/LM 1400–1500 zł/t, premium OBI/Castorama 1500–1700 zł/t; ceny −10–15% r/r.
+- Jakość i powtarzalność są problemem rynku:
+  - kontrola UOKiK/IH paliw stałych (2021): 6,9% próbek nie spełniało wymagań, a ~14% nie zgadzało się z parametrami deklarowanymi w świadectwie jakości; najczęściej granulacja;
+  - opinie klientów o ekogroszku z Leroy Merlin: mokry, niska kaloryczność, dużo popiołu (Gwarek/Golden Stone); mokry, pylisty, zawiesza podajnik (Batory); kamienie, większa granulacja niż w specyfikacji, dymienie (Gold/Equation); w Castoramie zgłoszenie worka z wodą i "czarnym błotem".
+- Parametry, które decydują dla klienta z kotłem z podajnikiem: kaloryczność ≥ 25–27 MJ/kg, popiół ≤ 8–10%, spiekalność RI < 20, granulacja 5–25 mm, niska wilgotność i powtarzalność partii.
 - ETS2 od 2028: +500–800 zł/t. Uchwały antysmogowe, kontrole w CEEB (mandat do 500 zł, grzywna do 5000 zł), dyrektywa EPBD – koniec kotłów na paliwa kopalne do 2040.
 - Pellet: ~450 tys. gospodarstw, ~2 mln t/rok; pellet A1 +20–30% r/r (VII 2026) przez brak trocin i moratorium na wycinkę.
 
 **Ruchy:**
-1. **Węgiel = kategoria schyłkowa, ale generator ruchu sezonowego** (IX–II). Nie rozbudowywać – zawęzić do 1–2 SKU certyfikowanego ekogroszku od wiarygodnego dostawcy (PGG, LW Bogdanka, Tauron – spółki sprzedające opał) + palety z dowozem.
-2. **Cena konkurencyjna na palecie** (to KVI dla klienta opałowego), nie "premium" – obecne pozycjonowanie OBI powyżej Castoramy/LM odstrasza.
-3. **Zero ryzyka zapasu:** ceny spadają r/r, więc zapas z końca sezonu = strata. Konsygnacja / zapas u dostawcy, klauzule cenowe, przedsprzedaż wiosną/latem z dostawą jesienią.
-4. **Plan wyjścia 2027–2028** pod ETS2 – ograniczać powierzchnię i wolumen stopniowo.
-5. **Rozwijać pellet A1** – teraz przewagą jest *zabezpieczenie podaży*, nie cena: roczne kontrakty wolumenowe z producentami (Polska, kraje bałtyckie), certyfikat ENplus A1. Dodatkowo brykiet, drewno kominkowe, rozpałka, węgiel drzewny (lato).
-6. **"Doradca transformacji ciepła":** klient opałowy za 2–5 lat wymieni źródło ciepła (pompa ciepła, kocioł na pellet) – to koszyk dziesiątek tysięcy zł. OBI może go przechwycić: doradztwo, montaż, pomoc w Czystym Powietrzu.
-7. **Akcesoria wysokomarżowe:** czujniki CO, środki do czyszczenia kotła i szyb, szczotki kominowe, rękawice – dopinać do każdego zakupu opału.
+> **Korekta (po dyskusji):** pierwsza wersja zalecała "cenę konkurencyjną na palecie, nie premium". Opierała się na jednej tabeli cen (Murator), która porównuje różne klasy jakości, i na ogólnej heurystyce "opał = produkt cenowy". Nie miałem danych o jakości, reklamacjach ani elastyczności cenowej. Dane o jakości wskazują odwrotnie: premium i powtarzalność to przewaga OBI, której nie należy oddawać.
+
+1. **Węgiel = kategoria schyłkowa, ale generator ruchu sezonowego** (IX–II). Nie rozbudowywać liczby SKU – mała, pewna oferta certyfikowanego ekogroszku + palety z dowozem.
+2. **Utrzymać pozycjonowanie jakościowe, ale sprzedawać koszt ogrzania, nie cenę za tonę.** Na etykiecie: zł/GJ i szacunkowy koszt sezonu. Ilustracja dla domu potrzebującego 90 GJ energii z paliwa na sezon (parametry przykładowe, nie pomiar konkretnych produktów):
+
+   | Wariant | Cena | Kaloryczność | Potrzeba | Koszt sezonu | zł/GJ |
+   |---|---|---|---|---|---|
+   | Premium | 1650 zł/t | 28 MJ/kg | 3,2 t (161 worków) | ~5 300 zł | 58,9 |
+   | Standard, zgodny z deklaracją | 1450 zł/t | 25 MJ/kg | 3,6 t (180 worków) | ~5 220 zł | 58,0 |
+   | Standard, poniżej deklaracji (mokry) | 1450 zł/t | 23 MJ/kg | 3,9 t (196 worków) | ~5 670 zł | 63,0 |
+
+   Premium kosztuje za sezon tyle samo lub mniej, a do tego: mniej worków do dźwigania, mniej popiołu, mniejsze ryzyko zawieszenia podajnika.
+3. **Gwarancja powtarzalności jako element oferty:** jedno źródło (kopalnia/sortownia) na SKU bez podmian w trakcie sezonu; numer partii i świadectwo jakości przez QR na worku; własne badania laboratoryjne losowych dostaw; w umowie tolerancje (kaloryczność, popiół, wilgotność, granulacja, RI) z karami i prawem zwrotu partii.
+4. **Wybór dostawcy po parametrach, nie po marce:** preferować producentów z własnym sortowaniem, płukaniem i suszeniem (stabilny pokład, nie mieszanki od pośredników). PGG, LW Bogdanka i Tauron mają po kilka produktów – decyduje zmierzona jakość konkretnego sortymentu.
+5. **Logistyka sklepowa chroni jakość:** składowanie pod dachem lub folią (skargi na "mokre worki" to często także wina składowania na placu), rotacja FIFO, worki o lepszej barierze na wilgoć.
+6. **Cena konkurencyjna tylko w obrębie tej samej klasy jakości** – nie być najdroższym wśród ekogroszków 27–28 MJ/kg, ale nie schodzić do najtańszego standardu, który rozmywa wizerunek.
+7. **Zero ryzyka zapasu:** ceny spadają r/r, więc zapas z końca sezonu = strata. Konsygnacja / zapas u dostawcy, klauzule cenowe, przedsprzedaż wiosną/latem z dostawą jesienią.
+8. **Plan wyjścia 2027–2028** pod ETS2 – ograniczać powierzchnię i wolumen stopniowo.
+9. **Rozwijać pellet A1** – teraz przewagą jest *zabezpieczenie podaży*, nie cena: roczne kontrakty wolumenowe z producentami (Polska, kraje bałtyckie), certyfikat ENplus A1. Dodatkowo brykiet, drewno kominkowe, rozpałka, węgiel drzewny (lato).
+10. **"Doradca transformacji ciepła":** klient opałowy za 2–5 lat wymieni źródło ciepła (pompa ciepła, kocioł na pellet) – to koszyk dziesiątek tysięcy zł. OBI może go przechwycić: doradztwo, montaż, pomoc w Czystym Powietrzu.
+11. **Akcesoria wysokomarżowe:** czujniki CO, środki do czyszczenia kotła i szyb, szczotki kominowe, rękawice – dopinać do każdego zakupu opału.
 
 ---
 
@@ -123,8 +141,8 @@ Marketplace'y odpowiadają za ~70% sprzedaży online produktów remontowo-budowl
 
 1. **Główna teza:** OBI nie traci rynku przez koniunkturę, tylko przez strategię – konkurenci w tym samym rynku rosną lub stoją, a OBI traci 5–6% rocznie. Liczby: 3,33 → 2,94 mld zł vs Leroy Merlin 8,73 → 8,84 mld zł.
 2. **Jedna liczba do zapamiętania:** ~48 mln zł sprzedaży na sklep vs ~90–107 mln u liderów.
-3. **Argument CM:** rynek dostawców (płytki, drzwi) jest dziś pod presją (Indie, Ukraina, koszty energii), więc to rzadkie okno na renegocjację warunków, wyłączności i przerzucenie zapasu na dostawcę (VMI/dropship). Węgiel – zarządzać jak kategorią schyłkową i przestawiać klienta na pellet i transformację ciepła.
-4. **Szybkie wygrane (90 dni):** (a) urealnić cenę ekogroszku na palecie przed sezonem, (b) zabezpieczyć kontrakt na pellet A1, (c) otworzyć rozmowy z 2–3 producentami płytek i 2 producentami drzwi o liniach na wyłączność + VMI, (d) wpiąć long tail płytek/drzwi w nowy marketplace.
+3. **Argument CM:** rynek dostawców (płytki, drzwi) jest dziś pod presją (Indie, Ukraina, koszty energii), więc to rzadkie okno na renegocjację warunków, wyłączności i przerzucenie zapasu na dostawcę (VMI/dropship). Węgiel – zarządzać jak kategorią schyłkową, ale grać jakością i powtarzalnością (tu konkurencja zbiera skargi), a równolegle przestawiać klienta na pellet i transformację ciepła.
+4. **Szybkie wygrane (90 dni):** (a) przed sezonem ekogroszku: etykiety z kosztem zł/GJ i kosztem sezonu, tolerancje jakości w umowie z dostawcą, badania laboratoryjne dostaw i składowanie pod dachem, (b) zabezpieczyć kontrakt na pellet A1, (c) otworzyć rozmowy z 2–3 producentami płytek i 2 producentami drzwi o liniach na wyłączność + VMI, (d) wpiąć long tail płytek/drzwi w nowy marketplace.
 
 ---
 
@@ -158,5 +176,9 @@ Marketplace'y odpowiadają za ~70% sprzedaży online produktów remontowo-budowl
 - [Murator – ceny węgla PGG, Tauron, Bogdanka, markety](https://muratordom.pl/instalacje/ogrzewanie-paliwami-stalymi/ceny-wegla-2025-najtaniej-jest-teraz-ile-obecnie-kosztuje-tona-wegla-aa-vogJ-TcHy-ZP7h.html)
 - [farmer.pl – ekogroszek 2026: zakazy, kary, ETS2](https://www.farmer.pl/farmer-po-godzinach/koniec-ogrzewania-ekogroszkiem-terminy-zakazow-i-kary-co-czeka-wlascicieli-domow-w-2026,175196.html)
 - [L4T – ETS2 od 2028](https://l4t.pl/aktualnosci/energetyka-i-oze/ogrzewanie/ets2-uderzy-w-domowe-budzety-od-2028-roku-drozeje-gaz-wegiel-i-paliwa/)
+- [UOKiK – kontrola paliw stałych 2021](https://archiwum.uokik.gov.pl/aktualnosci.php?news_id=18287)
+- [naFakcie – ekogroszek Leroy Merlin, opinie](https://nafakcie.pl/ekogroszek-leroy-merlin-opinie/)
+- [kb.pl – gdzie kupić ekogroszek workowany (Castorama, LM, OBI)](https://kb.pl/ogrzewanie/piece-na-ekogroszek/gdzie-kupic-ekogroszek-workowany-castorama-leroy-merlin-obi-moze-w-lokalnym-skladzie/)
+- [kb.pl – kluczowe parametry ekogroszku](https://kb.pl/aktualnosci/ogrzewanie/glowne-oznaczenia-ekogroszku/)
 - [money.pl – ceny pelletu wystrzeliły (VII 2026)](https://www.money.pl/gospodarka/ceny-pelletu-wystrzelily-branza-apeluje-o-ulge-w-pit-7312378750613888a.html)
 - [RetailDetail – strategia grupy OBI](https://www.retaildetail.eu/news/diy-garden/how-obi-plans-to-overcome-the-diy-slump/)
