@@ -109,6 +109,13 @@ Marketplace'y odpowiadają za ~70% sprzedaży online produktów remontowo-budowl
   - kontrola UOKiK/IH paliw stałych (2021): 6,9% próbek nie spełniało wymagań, a ~14% nie zgadzało się z parametrami deklarowanymi w świadectwie jakości; najczęściej granulacja;
   - opinie klientów o ekogroszku z Leroy Merlin: mokry, niska kaloryczność, dużo popiołu (Gwarek/Golden Stone); mokry, pylisty, zawiesza podajnik (Batory); kamienie, większa granulacja niż w specyfikacji, dymienie (Gold/Equation); w Castoramie zgłoszenie worka z wodą i "czarnym błotem".
 - Parametry, które decydują dla klienta z kotłem z podajnikiem: kaloryczność ≥ 25–27 MJ/kg, popiół ≤ 8–10%, spiekalność RI < 20, granulacja 5–25 mm, niska wilgotność i powtarzalność partii.
+- Kto sprzedaje najwięcej węgla: żadna sieć nie publikuje wolumenów, więc to szacunek z zasięgu sieci, nie dane:
+  - rynek: gospodarstwa domowe zużywają ~7–10 mln t/rok, ~3 mln domów z kotłami na paliwa stałe, 3–5 t na sezon;
+  - dominują ~5 tys. małych składów opału (UOKiK 2022: 88% sprzedawców ma jeden skład) oraz sprzedaż bezpośrednia kopalń (e-sklep i sklepy PGG, Tauron, Bogdanka) – głównie luzem z dowozem;
+  - wśród sieci prawdopodobnie prowadzą Bricomarché (228+ sklepów w małych miastach, 10 rodzajów ekogroszku) i PSB (Mrówka + składy PSB);
+  - z trójki DIY najpewniej Castorama (107 sklepów) > Leroy Merlin (83) > OBI (61, skoncentrowane w dużych miastach);
+  - skala: nawet 100 worków dziennie przez 180 dni sezonu = 360 t na sklep; × ~250 sklepów Castorama+LM+OBI ≈ 90 tys. t ≈ ~1% węgla dla gospodarstw. Duże DIY to nisza (klient miejski, dokupowanie, brak miejsca na skład).
+  - Realni konkurenci OBI w węglu to skład opału i e-sklep PGG (worki 20 kg od ~28 zł), nie Castorama.
 - ETS2 od 2028: +500–800 zł/t. Uchwały antysmogowe, kontrole w CEEB (mandat do 500 zł, grzywna do 5000 zł), dyrektywa EPBD – koniec kotłów na paliwa kopalne do 2040.
 - Pellet: ~450 tys. gospodarstw, ~2 mln t/rok; pellet A1 +20–30% r/r (VII 2026) przez brak trocin i moratorium na wycinkę.
 
@@ -180,5 +187,8 @@ Marketplace'y odpowiadają za ~70% sprzedaży online produktów remontowo-budowl
 - [naFakcie – ekogroszek Leroy Merlin, opinie](https://nafakcie.pl/ekogroszek-leroy-merlin-opinie/)
 - [kb.pl – gdzie kupić ekogroszek workowany (Castorama, LM, OBI)](https://kb.pl/ogrzewanie/piece-na-ekogroszek/gdzie-kupic-ekogroszek-workowany-castorama-leroy-merlin-obi-moze-w-lokalnym-skladzie/)
 - [kb.pl – kluczowe parametry ekogroszku](https://kb.pl/aktualnosci/ogrzewanie/glowne-oznaczenia-ekogroszku/)
+- [Spidersweb – kto prowadzi składy węgla (dane UOKiK, XII 2022)](https://bizblog.spidersweb.pl/sklady-wegla-kontrola-uokik)
+- [Bricomarché – ekogroszek i węgiel workowany](https://www.bricomarche.pl/ogrzewanie-i-wentylacja/materialy-opalowe-paliwa/ekogroszek-wegiel)
+- [Forsal – ceny w e-sklepie PGG (X 2025)](https://forsal.pl/gospodarka/aktualnosci/artykuly/10037501,ceny-wegla-w-sklepie-pgg-w-pazdzierniku-2025-sprawdz-aktualny-cennik-jak-kupic-wegiel-w-sklepie-internetowym-pgg-sklep-pgg-online-logowanie-tauron-ekogroszek.html)
 - [money.pl – ceny pelletu wystrzeliły (VII 2026)](https://www.money.pl/gospodarka/ceny-pelletu-wystrzelily-branza-apeluje-o-ulge-w-pit-7312378750613888a.html)
 - [RetailDetail – strategia grupy OBI](https://www.retaildetail.eu/news/diy-garden/how-obi-plans-to-overcome-the-diy-slump/)
